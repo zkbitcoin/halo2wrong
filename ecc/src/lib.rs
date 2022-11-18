@@ -1,5 +1,6 @@
 //! `ecc` implements constraints for ellictic curve operations
 
+#![feature(trait_alias)]
 #![deny(missing_debug_implementations)]
 #![deny(missing_docs)]
 
